@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1651343772001,
+  "timestamp": 1651389711331,
   "index": "/camp_bypass/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "/camp_bypass/favicon.ico",
         "/camp_bypass/index.html",
-        "/camp_bypass/main.3e2db8173d9d6c3ee842.js",
+        "/camp_bypass/main.e0ef9d30585a5a47278d.js",
         "/camp_bypass/manifest.webmanifest",
-        "/camp_bypass/polyfills.94daefd414b8355106ab.js",
+        "/camp_bypass/polyfills.00096ed7d93ed26ee6df.js",
         "/camp_bypass/runtime.0c5186af95f1cf87b623.js",
-        "/camp_bypass/styles.219c4d42e9adaeda1cf2.css"
+        "/camp_bypass/styles.b9dada1f923f84af9ab3.css"
       ],
       "patterns": []
     },
@@ -78,14 +78,14 @@
     "/camp_bypass/assets/superbar.png": "56f4d4e7828f7288a10ad06b1e344d1f13afc082",
     "/camp_bypass/assets/superbar2.png": "63aab600687b3907f88fbfeded6c79f61c9cfe46",
     "/camp_bypass/assets/time.png": "76bb6290877b62cad101152fcb9158c2f6d8d9a2",
-    "/camp_bypass/assets/users.json": "f73b5534d83c6a059c369ba107af7811df2b7037",
+    "/camp_bypass/assets/users.json": "37aa5338d97e4949caef1e732719663054c05e38",
     "/camp_bypass/favicon.ico": "4ac62292aaa20c5e6a0b5d84565dd4df97bdd772",
-    "/camp_bypass/index.html": "5c5652c883b7300da155b5c34409cbfcf16231f9",
-    "/camp_bypass/main.3e2db8173d9d6c3ee842.js": "e842d9ce0441fc0ae0462ad14bde3c911f71db11",
-    "/camp_bypass/manifest.webmanifest": "927731322d1c7349174adc1f41469c994debc6ce",
-    "/camp_bypass/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
+    "/camp_bypass/index.html": "c0c45350a8ca24d9afbff956d27c10257a8957f6",
+    "/camp_bypass/main.e0ef9d30585a5a47278d.js": "57fbc8d9d32c85030d77a3ab4a2b07e7154470ce",
+    "/camp_bypass/manifest.webmanifest": "ed2c9afb9c66c20925e3f855e3c70740392c5032",
+    "/camp_bypass/polyfills.00096ed7d93ed26ee6df.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
     "/camp_bypass/runtime.0c5186af95f1cf87b623.js": "b1e532d5997619f2b6ad67993a879a8047080e6b",
-    "/camp_bypass/styles.219c4d42e9adaeda1cf2.css": "73eef4ad324e2cebfdf7bf7a21826ac130776e74"
+    "/camp_bypass/styles.b9dada1f923f84af9ab3.css": "73eef4ad324e2cebfdf7bf7a21826ac130776e74"
   },
   "navigationUrls": [
     {
